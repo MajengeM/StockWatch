@@ -62,6 +62,9 @@ StockWatch closes that gap with barcode-driven data capture and automated daily 
 - Microsoft Power Automate
 - Microsoft Power BI
 
+- <img width="4032" height="1076" alt="image" src="https://github.com/user-attachments/assets/149b9619-c7ca-443f-8951-57656eecde07" />
+
+
 
 ---
 
