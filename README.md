@@ -53,8 +53,7 @@ StockWatch closes that gap with barcode-driven data capture and automated daily 
 4. Power Automate — expiry alert flow
 5. Power Automate — low stock alert flow
 6. Power BI dashboard
-7. *(Optional)* AI Builder expiry-date photo reader
-8. *(Optional)* Copilot Studio agent
+
 
 ## 🛠️ Built With
 
@@ -62,8 +61,7 @@ StockWatch closes that gap with barcode-driven data capture and automated daily 
 - Microsoft Dataverse
 - Microsoft Power Automate
 - Microsoft Power BI
-- AI Builder *(optional)*
-- Copilot Studio *(optional)*
+
 
 ---
 
