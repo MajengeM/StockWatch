@@ -27,8 +27,8 @@ StockWatch closes that gap with barcode-driven data capture and automated daily 
 | Mobile app | Power Apps (canvas, barcode scanner control) | Scan products, load stock, view live stock status |
 | Data | Dataverse | Stores Products, Stock Batches, Thresholds, and Alerts |
 | Automation | Power Automate | Daily flows for expiry checks and low stock checks |
-| AI *(optional)* | AI Builder | Reads expiry dates directly from packaging photos |
-| Agent *(optional)* | Copilot Studio | Conversational queries like "what's expiring this week?" |
+| AI  | AI Builder | Reads expiry dates directly from packaging photos |
+| Agent  | Copilot Studio | Conversational queries like "what's expiring this week?" |
 | Reporting | Power BI | Stock levels, expiry calendar, waste value, reorder trends |
 
 ## 🗃️ Data Model
